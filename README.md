@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://gitfut.com/beocch">
-    <img src="https://gitfut.com/beocch.png" alt="beocch — GitFut player card" width="300"/>
+    <img src="https://gitfut.com/beocch/opengraph-image" alt="beocch — GitFut player card" width="700"/>
   </a>
 </p>
 
